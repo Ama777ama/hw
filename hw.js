@@ -1,4 +1,4 @@
-function Object(box) {
+function IsObjectEmpty(box) {
     if (box == [])
     console.log('true');
 return true;
